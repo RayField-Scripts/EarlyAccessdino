@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RayField-Scripts/EarlyAccessdino/main/DinoEvents"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/CAhE3AWOjT/0", true))()
